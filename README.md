@@ -1,4 +1,5 @@
 ## ReactJS Basics
+
 This repository contains commits of learning ReactJS Basics. I have committed all the thing I have learned exploring ReactJS. I have also put the learing resources here.
 
 ## My Profile Links
@@ -9,6 +10,24 @@ This repository contains commits of learning ReactJS Basics. I have committed al
 [![facebook](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/towhid.komol/)
 [![facebook](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/towhid_komol/)
 
+## Create React App
+
+```
+  npx create-react-app myapp
+  cd ./myapp/
+  npm start
+```
+
+## Eslint:
+
+package.json-> Scripts->
+
+```
+"lint": "npm install --save-dev prettier && npm install @babel/eslint-parser -D && npm install @babel/preset-react -D && npx install-peerdeps --dev eslint-config-airbnb install -D eslint-config-prettier eslint-plugin-prettier",
+"lint:fix": "eslint --fix --ext .js"
+npm run lint
+npm run lint:fix
+```
 
 ## Learn More
 
