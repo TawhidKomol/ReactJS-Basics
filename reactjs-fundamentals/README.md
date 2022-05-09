@@ -33,11 +33,7 @@ Learning ReactJS fundamentals by making Contact App
 
 ## Project Screenshots
 
-![App Screenshot](https://github.com/TawhidKomol/)
-
-![App Screenshot](https://github.com/TawhidKomol/)
-
-![App Screenshot](https://github.com/TawhidKomol/)
+![App Screenshot](https://github.com/TawhidKomol/ReactJS-Basics/blob/main/reactjs-fundamentals/src/images/Screenshot%202022-05-09%20093326.png?raw=true)
 
 ## Important Links
 
